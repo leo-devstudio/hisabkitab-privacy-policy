@@ -3,13 +3,13 @@
 **Last updated:** October 27, 2026  
 **Effective date:** October 27, 2026  
 **Application ID:** `com.hisabkitab.application`  
-**Contact:** [support@hisabkitab.app](mailto:support@hisabkitab.app) *(or your preferred support email)*
+**Contact:** [support@hisabkitab.app](mailto:support@hisabkitab.app)
 
 ---
 
 ## 1. Introduction
 
-Welcome to **HisabKitab** ("we", "our", or "us"). HisabKitab is an expense tracking, bill splitting, and group balance settlement application designed to help individuals, roommates, travel groups, and friends manage shared expenses transparently.
+Welcome to **HisabKitab**. HisabKitab is an expense tracking, bill splitting, and group balance settlement application designed to help individuals, roommates, travel groups, and friends manage shared expenses transparently.
 
 This Privacy Policy explains how your information is collected, used, shared, and safeguarded when you use our mobile application (Android), Progressive Web Application (PWA), and web services (collectively, the "Service").
 
